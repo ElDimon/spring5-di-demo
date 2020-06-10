@@ -1,0 +1,36 @@
+# this is example yaml
+
+name: John
+
+names: # name list
+  - John
+  - Paul
+  - Toby
+
+pound_sign: "#"
+
+book:
+  author: Joe Buck
+  publisher: publisher name
+
+truth: yes
+
+another_truth: True
+
+more: true
+
+false: no
+
+string_val: "This isn't a quote"
+
+include_lines:  |
+  ewew efewf
+  wef wef
+  wef wf
+
+ignore_newlines: >
+    this
+    sdfew
+    dssf
+
+dsf:
